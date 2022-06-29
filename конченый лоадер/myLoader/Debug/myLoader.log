@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Loader.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\derty\Desktop\конченый лоадер\myLoader\main.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\derty\Desktop\конченый лоадер\myLoader\main.cpp(70): fatal error C1075: "{": не найдена несоответствующая лексема

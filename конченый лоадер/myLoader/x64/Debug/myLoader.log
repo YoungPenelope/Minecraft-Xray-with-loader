@@ -1,0 +1,34 @@
+﻿  crypt.cpp
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(8,34): error C2065: alphabet: необъявленный идентификатор
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(9,28): error C2065: alphabet: необъявленный идентификатор
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(10,27): error C2065: alphabet: необъявленный идентификатор
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(25,34): error C2065: alphabet: необъявленный идентификатор
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(26,28): error C2065: alphabet: необъявленный идентификатор
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\crypt.cpp(27,27): error C2065: alphabet: необъявленный идентификатор
+  inject.cpp
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\inject.cpp(8,88): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\inject.cpp(8,109): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\inject.cpp(9,16): error C3536: _NtCTE: не может использоваться до инициализации
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\inject.cpp(13,5): error C2064: результатом вычисления фрагмента не является функция, принимающая 11 аргументов
+  main.cpp
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(9,19): error C3861: decrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(10,16): error C3861: decrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(11,25): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(47,23): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(48,21): error C3861: decrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(58,13): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(63,45): error C3861: decrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(65,17): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(71,13): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(73,5): error C3861: encrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(81,9): error C3861: decrip: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(83,17): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(89,13): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(94,16): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(98,17): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(106,13): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(118,43): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(127,17): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(135,17): error C3861: dchar: идентификатор не найден
+C:\Users\derty\Desktop\Darwin-Cheat-Loader-main\myLoader\main.cpp(139,13): error C3861: dchar: идентификатор не найден
+  Создание кода...
